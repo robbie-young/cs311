@@ -1,2 +1,12 @@
-Notes/
-Other/
+# .gitignore for CS311
+# The below are excluded from the global .gitignore
+#
+#
+#
+#
+#
+#
+#
+#
+
+!P1/*
